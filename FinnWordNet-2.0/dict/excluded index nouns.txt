@@ -1,0 +1,259 @@
+" n 1 4 @ #p %p ; 1 0 13767675  
+"varmat_päivät" n 1 1 @ 1 0 00852772  
+-elimet n 1 3 @ ~ ; 1 0 05255721  
+-jaardinen n 1 2 @ ; 1 0 13768612  
+-kerho n 1 2 @ ~ 1 0 04315419  
+-kerroksinen n 1 2 @ ; 1 0 03196426  
+-kko n 1 2 @ ~ 1 0 04315633  
+-kkö n 1 2 @ ~ 1 0 04315633  
+-kohtaus n 1 2 @ ~ 1 0 14202899  
+-kunta n 1 2 @ ~ 1 0 08280226  
+-lappu n 1 2 @ ~ 1 0 07316400  
+-lippu n 1 2 @ ~ 1 0 07316400  
+-mailinen n 1 3 @ + ; 1 0 13769381  
+-naulainen n 1 2 @ ; 1 0 13766207  
+-osainen_lehti n 1 1 @ 1 0 13269229  
+-pala n 1 1 @ 1 0 04410356  
+-purkaus n 1 2 @ ~ 1 0 14988223  
+-päästö n 1 2 @ ~ 1 0 14988223  
+-ruoho n 1 1 @ 1 0 13193386  
+-sade n 1 1 @ 1 0 09419021  
+-sarja n 1 2 @ ~ 1 0 03652081  
+-silmäisyys n 1 1 @ 1 0 05100335  
+-syöjä n 1 1 @ 1 0 01346759  
+-tarha n 1 2 @ ~ 1 0 04637983  
+-taulu n 1 2 @ ~ 1 0 04410474  
+-tavara n 1 2 @ ~ 1 0 04579104  
+-tiede n 1 2 @ ~ 1 0 05670635  
+-työntekijä n 1 2 @ ; 1 0 10893456  
+-vyöry n 1 3 @ ~ + 1 0 07459175  
+.22 n 1 2 @ ~ 1 0 04531339  
+.22-kaliiberin_kivääri n 1 1 @ 1 0 04531602  
+.22-kaliiberin_pistooli n 1 1 @ 1 0 04531486  
+.22-kaliiperin_kivääri n 1 1 @ 1 0 04531602  
+.22-kaliiperin_pistooli n 1 1 @ 1 0 04531486  
+0 n 1 1 @ 1 0 13860219  
+0\,47_l n 1 3 @ #p %p 1 0 13736794  
+0\,55_dm³ n 1 2 @ #p 1 0 13737973  
+0\,55_l n 1 2 @ #p 1 0 13737973  
+0\,57_dm3 n 1 3 @ #p %p 1 0 13739425  
+0\,57_l n 1 3 @ #p %p 1 0 13739425  
+0\,9_g n 1 1 @ 1 0 13835986  
+1 n 1 2 @ ~ 1 0 13860372  
+1-dodekanoli n 1 1 @ 1 0 15066223  
+1-rauta n 1 2 @ ; 1 0 03271519  
+1._aikakirja n 1 2 @ #p 1 0 06476160  
+1._elokuuta n 1 1 @ 1 0 15328946  
+1._heinäkuuta n 1 3 @ #p ; 1 0 15339490  
+1._jaarli_baldwin_of_bewdley n 1 1 @ 1 0 10960854  
+1._johanneksen_kirje n 1 2 @ #p 1 0 06487100  
+1._korinttolaiskirje n 1 2 @ #p 1 0 06483791  
+1._kuningasten_kirja n 1 2 @ #p 1 0 06475375  
+1._kuninkaiden_kirja n 1 2 @ #p 1 0 06475375  
+1._makkabilaiskirja n 1 2 @ #p 1 0 06500787  
+1._marraskuuta n 1 2 @ #p 1 0 15334293  
+1._pietarin_kirje n 1 2 @ #p 1 0 06486737  
+1._samuelin_kirja n 1 2 @ #p 1 0 06474972  
+1._sunnuntai_pääsiäisestä n 1 1 @ 1 0 15330822  
+1._tammikuuta n 1 2 @ ; 1 0 15332377  
+1._tessalonikalaiskirje n 1 2 @ #p 1 0 06485132  
+1._timoteuskirje n 1 2 @ #p 1 0 06485521  
+1._toukokuuta n 1 2 @ #p 1 0 15327617  
+1/16_unssin_apteekkimitta n 1 3 @ #p %p 1 0 13837928  
+1/20_unssia n 1 3 @ #p %p 1 0 13840405  
+1/2_gallonan_astia n 1 1 @ 1 0 04023650  
+1/4_pennyn_kupariraha n 1 1 @ 1 0 13502067  
+1/8_peckiä n 2 3 @ #p %p 2 0 13739625 13738143  
+1/8_unssin_apteekkimitta n 1 3 @ #p %p 1 0 13840547  
+10 n 1 1 @ 1 0 13864137  
+100 n 1 1 @ 1 0 13868309  
+1000 n 1 2 @ ~ 1 0 13868744  
+10000 n 1 1 @ 1 0 13869165  
+100000 n 1 1 @ 1 0 13869298  
+1000000 n 1 2 @ ~ 1 0 13869415  
+1000000000 n 1 3 @ ~ ; 1 0 13869735  
+1000000000000 n 2 2 @ ; 2 0 13870345 13870074  
+100_jalkaa n 1 1 @ 1 0 13771096  
+100_kiloa n 1 3 @ #p %p 1 0 13843449  
+100_litraa n 1 3 @ #p %p 1 0 13742216  
+100_metriä n 1 3 @ #p %p 1 0 13777345  
+10_dollarin_kultaraha n 1 1 @ 1 0 13501701  
+10_sentin_kolikko n 1 1 @ 1 0 13499092  
+11 n 1 1 @ 1 0 13864318  
+11-sivuinen_monikulmio n 1 1 @ 1 0 14005396  
+11._9. n 1 3 @ #p ; 1 0 15441139  
+11._aivohermo n 1 1 @ 1 0 05516334  
+11._marraskuuta n 2 2 @ #p 2 0 15340136 15324289  
+11._syyskuuta n 1 3 @ #p ; 1 0 15441139  
+12 n 1 2 @ ~ 1 0 13864435  
+12._helmikuuta n 1 3 @ #p ; 1 0 15325599  
+12._lokakuuta n 1 2 @ #p 1 0 15329679  
+120 n 1 1 @ 1 0 13868497  
+12_kg n 1 1 @ 1 0 13837641  
+12_kuukautta n 1 3 @ ~ #p 1 0 15343034  
+13 n 1 1 @ 1 0 13864873  
+14 n 1 1 @ 1 0 13865037  
+14._heinäkuuta n 1 2 @ #p 1 0 15339693  
+14._helmikuuta n 1 2 @ #p 1 0 15325782  
+14._huhtikuuta n 1 2 @ #p 1 0 15327242  
+14._kesäkuuta n 1 2 @ #p 1 0 15328490  
+1400-luku n 1 2 @ #p 1 0 15345528  
+144 n 1 1 @ 1 0 13868426  
+15 n 1 1 @ 1 0 13865162  
+15._elokuuta n 1 2 @ #p 1 0 15333057  
+15._elokuuta_1945 n 1 1 @ 1 0 15300631  
+1530-luku n 1 1 @ 1 0 15285606  
+15_minuuttia n 1 2 @ #p 1 0 15368557  
+16 n 1 1 @ 1 0 13865303  
+1600-luku n 1 1 @ 1 0 15452272  
+160_eekkerin_alue n 1 1 @ 1 0 13731012  
+16_pf n 1 1 @ 1 0 06515621  
+17 n 1 1 @ 1 0 13865426  
+17-vuotiskaskas n 1 2 @ #m 1 0 02283691  
+17._maaliskuuta n 1 1 @ 1 0 15326510  
+17._syyskuuta n 1 2 @ #p 1 0 15329394  
+1700-luku n 1 1 @ 1 0 15452335  
+1728 n 1 1 @ 1 0 13869063  
+1750-luku n 1 1 @ 1 0 15286985  
+1760-luku n 1 1 @ 1 0 15287422  
+1770-luku n 1 1 @ 1 0 15287952  
+1780-luku n 1 1 @ 1 0 15288436  
+1790-luku n 1 1 @ 1 0 15288908  
+17_november n 1 2 @ ; 1 0 08106219  
+18 n 1 1 @ 1 0 13865573  
+1800-luku n 1 1 @ 1 0 15452398  
+1820-luku n 1 1 @ 1 0 15285821  
+1830-luku n 1 1 @ 1 0 15286179  
+1840-luku n 1 1 @ 1 0 15286527  
+1850-luku n 1 1 @ 1 0 15286901  
+1860-luku n 1 1 @ 1 0 15287338  
+1870-luku n 1 1 @ 1 0 15287868  
+1880-luku n 1 1 @ 1 0 15288330  
+1890-luku n 1 1 @ 1 0 15288799  
+18_karaatin_kulta n 1 1 @ 1 0 14774446  
+19 n 1 1 @ 1 0 13865704  
+19._maaliskuuta n 1 2 @ #p 1 0 15333943  
+19._tammikuuta n 1 1 @ 1 0 15320927  
+1900-luku n 1 1 @ 1 0 15285522  
+1920-luku n 2 1 @ 2 0 15452461 15285690  
+1920. n 1 1 @ 1 0 15285690  
+1930-luku n 2 1 @ 2 0 15452524 15286074  
+1930-luvun_lama n 2 1 @ 2 0 15435276 14614604  
+1940-luku n 1 1 @ 1 0 15286404  
+1950-luku n 1 1 @ 1 0 15286778  
+1960-luku n 1 1 @ 1 0 15287205  
+1970-luku n 1 1 @ 1 0 15287758  
+1980-luku n 1 1 @ 1 0 15288189  
+1990-luku n 1 1 @ 1 0 15288690  
+1\,101_dm³ n 1 3 @ #p %p 1 0 13738143  
+1\,101_l n 1 3 @ #p %p 1 0 13738143  
+1\,136_dm³ n 1 3 @ #p %p 1 0 13739625  
+1\,136_l n 1 3 @ #p %p 1 0 13739625  
+1\,771_gramman_apteekkimitta n 1 3 @ #p %p 1 0 13837928  
+1st_baron_beaverbrook n 1 1 @ 1 0 10968524  
+1st_baron_verulam n 1 1 @ 1 0 10959165  
+2 n 1 2 @ ~ 1 0 13861062  
+2-hydroksibentsoehappo n 1 2 @ #s 1 0 15144913  
+2-metyylipropeeni n 1 2 @ #s 1 0 14923573  
+2-metyylipropeenihappo n 1 1 @ 1 0 14750863  
+2-propanoli n 1 1 @ 1 0 14845092  
+2._aikakirja n 1 2 @ #p 1 0 06476435  
+2._helmikuuta n 1 3 @ #p ; 1 0 15325367  
+2._kuningasten_kirja n 1 2 @ #p 1 0 06475628  
+2._kuninkaiden_kirja n 1 2 @ #p 1 0 06475628  
+2._maailmansota n 1 3 @ %p - 1 0 01307018  
+2._maaliskuuta n 1 2 @ #p 1 0 15326285  
+2._makkabilaiskirja n 1 2 @ #p 1 0 06501016  
+2._marraskuuta n 1 2 @ #p 1 0 15334785  
+2._samuelin_kirja n 1 2 @ #p 1 0 06475176  
+2/2-tahtilaji n 1 1 @ 1 0 06908483  
+2/4-tahti n 1 1 @ 1 0 15405485  
+20 n 1 1 @ 1 0 13865850  
+20._tammikuuta n 1 2 @ #p 1 0 15324169  
+20/20 n 1 1 @ 1 0 05689252  
+201\,2_metriä n 1 3 @ #p %p 1 0 13768948  
+20_dollarin_kultaraha n 1 1 @ 1 0 13501577  
+21 n 1 1 @ 1 0 13865976  
+21-trisomia n 1 1 @ 1 0 14281758  
+21._kesäkuuta n 1 2 @ #p 1 0 15362003  
+22 n 1 1 @ 1 0 13866105  
+22._helmikuuta n 1 3 @ #p ; 1 0 15325926  
+22\,41_neliömetriä n 1 1 @ 1 0 13732102  
+22\,7_kg n 1 1 @ 1 0 13836146  
+22_karaatin_kulta n 1 1 @ 1 0 14774549  
+23 n 1 1 @ 1 0 13866240  
+23._kesäkuuta n 1 2 @ #p 1 0 15362382  
+24 n 1 1 @ 1 0 13866376  
+24._joulukuuta n 1 1 @ 1 0 15335813  
+24._kesäkuuta n 1 2 @ #p 1 0 15362240  
+24._lokakuuta n 1 2 @ #p 1 0 15329897  
+24._toukokuuta n 1 2 @ #p 1 0 15339306  
+24/7 n 1 1 @ 1 0 15253652  
+24_karaatin_kulta n 1 1 @ 1 0 14774652  
+25 n 1 1 @ 1 0 13866530  
+25._joulukuuta n 1 2 @ #p 1 0 15335559  
+26 n 1 1 @ 1 0 13866665  
+27 n 1 1 @ 1 0 13866801  
+28 n 1 1 @ 1 0 13866942  
+29 n 1 1 @ 1 0 13867085  
+29._heinäkuuta n 1 2 @ #p 1 0 15332897  
+29._helmikuuta n 1 2 @ #p 1 0 15297167  
+29._kesäkuuta n 1 2 @ #p 1 0 15332897  
+29._syyskuuta n 1 2 @ #p 1 0 15324869  
+2_rauta n 1 1 @ 1 0 03794199  
+3 n 1 1 @ 1 0 13861859  
+3-d n 2 1 @ 2 0 06661661 05968884  
+3._kesäkuuta n 1 2 @ #p 1 0 15328261  
+30 n 1 1 @ 1 0 13867226  
+30_minuuttia n 1 2 @ #p 1 0 15368449  
+31._joulukuuta n 1 3 @ ~ #p 1 0 15320359  
+365_päivää n 1 1 @ 1 0 15341411  
+366_päivää n 1 1 @ 1 0 15341538  
+3\,4\,5-trihydroksibentsoehappo n 1 1 @ 1 0 15012454  
+3\,8_sentin_naula n 1 1 @ 1 0 03415581  
+3d n 2 1 @ 2 0 06661661 05968884  
+3d-tutka n 1 1 @ 1 0 04456582  
+3tc n 1 1 @ 1 0 03668539  
+4 n 1 1 @ 1 0 13862097  
+4.7. n 1 2 @ #p 1 0 15328767  
+4._heinäkuuta n 1 2 @ #p 1 0 15328767  
+4/4-tahti n 1 1 @ 1 0 15405380  
+40 n 1 1 @ 1 0 13867354  
+400-vuotisjuhla n 1 1 @ 1 0 15393024  
+401-k n 1 1 @ 1 0 05940827  
+401-k-eläkesäästöjärjestelmä n 1 1 @ 1 0 05940827  
+440_jaardia n 1 2 @ #p 1 0 13769767  
+5 n 1 1 @ 1 0 13862280  
+5-hydroksi-3-metyyliglutaryyli-koentsyymi_a_-reduktaasi n 1 1 @ 1 0 14747383  
+5-hydroksi-tryptamiini n 1 1 @ 1 0 14944240  
+5._marraskuuta n 1 4 @ ~ #p ; 1 0 15296469  
+50 n 1 1 @ 1 0 13867481  
+50-prosenttinen_alkoholi n 1 1 @ 1 0 07947026  
+500 n 1 1 @ 1 0 13868614  
+500-vuotisjuhla n 1 1 @ 1 0 15393134  
+5\,03_metriä n 1 4 @ #p %p ; 1 0 13768802  
+5_šillinkiä n 1 1 @ 1 0 13498881  
+6 n 1 1 @ 1 0 13862391  
+6._elokuuta n 1 2 @ ; 1 0 15440390  
+6._heinäkuuta_1944 n 1 1 @ 1 0 15300256  
+6._tammikuuta n 1 2 @ #p 1 0 15333760  
+60 n 1 1 @ 1 0 13867624  
+60-luku n 1 1 @ 1 0 15287205  
+60-vuotisjuhla n 1 1 @ 1 0 15391605  
+60_minuuttia n 1 4 @ ~ #p %p 1 0 15368113  
+6\,4_senttimetrin_naula n 1 1 @ 1 0 03294642  
+7 n 1 1 @ 1 0 13862577  
+70 n 1 1 @ 1 0 13867749  
+70-luku n 1 1 @ 1 0 15452587  
+78 n 2 1 @ 2 0 13867900 04207016  
+8 n 1 1 @ 1 0 13862761  
+8._joulukuuta n 1 1 @ 1 0 15334506  
+8._toukokuuta_1945 n 1 1 @ 1 0 15300499  
+80 n 1 1 @ 1 0 13868046  
+80-luku n 1 1 @ 1 0 15288189  
+880_jaardia n 1 2 @ #p 1 0 13769633  
+9 n 1 1 @ 1 0 13862901  
+9-11 n 1 3 @ #p ; 1 0 15441139  
+9/11 n 1 3 @ #p ; 1 0 15441139  
+90 n 1 1 @ 1 0 13868179  
+90-luku n 1 1 @ 1 0 15452648  
